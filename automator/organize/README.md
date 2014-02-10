@@ -7,7 +7,7 @@ In today's world, when so many things are happening in everyday life, it becomes
 Why "Downloads" folder?
 -----------------------
 
-If you are a mac user, you probably know already. If not, don't bother, as automator solution won't help you anyways.
+If you are a mac user, you probably know already.
 
 So what exactly these automator jobs are doing?
 -----------------------------------------------
@@ -19,4 +19,4 @@ So, here the deal. I have these 4 jobs running at 24 hour frequency, helping me 
    * Files used < 12 month - orange lable
    * Files used > 12 month - red lable
 
-And usually in my case red files ends up in trash.
+And usually in my case, red files ends up in trash.
